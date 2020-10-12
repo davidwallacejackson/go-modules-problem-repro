@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "consumer"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "otherconsumer"
+		}
+	],
+	"settings": {}
+}
